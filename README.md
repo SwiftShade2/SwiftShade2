@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SwiftShade</h1>
 <h3 align="center">It doesn't really matter if you say Swift or Shade. I have been working on Minecraft servers since 2018. I have written several custom plugins in Java and JavaScript for my own games. Currently, I am working on web-based applications. I have a project built using the HTML5, CSS3, and JavaScript trio. I'm also taking courses on artificial intelligence, large language models, and machine learning. That's all for now. :)</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connections:</h3>
 <p align="left">
 <a href="https://discord.gg/swiftshade.2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="swiftshade.2" height="30" width="40" /></a>
 </p>
